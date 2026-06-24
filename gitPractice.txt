@@ -1,2 +1,4 @@
 hallo!!
 bye
+take input from user
+add the values
