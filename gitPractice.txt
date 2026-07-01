@@ -2,5 +2,5 @@ hallo!!
 bye
 take input from user
 add the values
-i added to more files to practice
+i added two more files to practice
 the new feature added
